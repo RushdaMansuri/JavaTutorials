@@ -44,6 +44,6 @@ Rushda Mansuri - https://www.linkedin.com/in/rushda-mansuri-a14a3984/
 Project Link: https://github.com/RushdaMansuri/JavaTutorials
 
 ## Acknowledgements
-Java: The official programming language used.
-Stack Overflow: For solving numerous bugs and issues.
-Oracle Java Documentation: For detailed language specifications and guides.
+- Java: The official programming language used.
+- Stack Overflow: For solving numerous bugs and issues.
+- Oracle Java Documentation: For detailed language specifications and guides.
