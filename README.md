@@ -32,18 +32,18 @@ Ensure you have the following installed:
 2. Open the project in your preferred IDE.
 3. Run individual programs directly within the IDE.
 
-### Contributing
+## Contributing
 As this is a personal learning project, I am not looking for contributions. However, feel free to fork the project and use it as a base for your own learning!
 
-### License
+## License
 This project is open-source.
 
-### Contact
+## Contact
 Rushda Mansuri - GitHub Profile
 
 Project Link: https://github.com/RushdaMansuri/JavaTutorials
 
-### Acknowledgements
+## Acknowledgements
 Java: The official programming language used.
 Stack Overflow: For solving numerous bugs and issues.
 Oracle Java Documentation: For detailed language specifications and guides.
