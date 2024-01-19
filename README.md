@@ -39,7 +39,7 @@ As this is a personal learning project, I am not looking for contributions. Howe
 This project is open-source.
 
 ## Contact
-Rushda Mansuri - GitHub Profile
+Rushda Mansuri - https://www.linkedin.com/in/rushda-mansuri-a14a3984/
 
 Project Link: https://github.com/RushdaMansuri/JavaTutorials
 
