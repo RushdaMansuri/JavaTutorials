@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="660d0193-610c-4cb1-89bf-5fc9a3aaa4e7" name="Changes" comment="" />
+    <list default="true" id="f0cd8726-482a-4742-9ade-f362b299dc08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactorialUsingForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2bayVCtIylCQAtRBVhN1Mq4bF4l" />
+  <component name="ProjectId" id="2beNhJ0QYwlUCmpa9JOa41uJp76" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,19 +42,19 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/rushdavahora/Desktop/Developer/JavaTutorials/BreakContinue/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/rushdavahora/Desktop/Developer/JavaTutorials/FactorialUsingForLoop/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="660d0193-610c-4cb1-89bf-5fc9a3aaa4e7" name="Changes" comment="" />
-      <created>1706467506079</created>
+      <changelist id="f0cd8726-482a-4742-9ade-f362b299dc08" name="Changes" comment="" />
+      <created>1706571701267</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706467506079</updated>
+      <updated>1706571701267</updated>
     </task>
     <servers />
   </component>
